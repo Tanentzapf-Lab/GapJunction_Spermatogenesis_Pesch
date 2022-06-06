@@ -1,5 +1,5 @@
 # Gap Junctions Mediate Discrete Regulatory Steps During Fly Spermatogenesis.
-Open source repository for source code for "Gap Junctions Mediate Discrete Regulatory Steps During Fly Spermatogenesis." (Pesch Y.Y., Dang V., Fairchild M.J., Islam F., Camp D., Kaur P., Smendziuk C., Carr R.L., Van Petegam F., &amp; Tanentzapf G.).
+Open source repository for source code for "Gap Junctions Mediate Discrete Regulatory Steps During Fly Spermatogenesis." (Pesch Y.Y., Dang V., Fairchild M.J., Islam F., Camp D., Kaur P., Smendziuk C., Messenberg, A., Carr R.L., McFarlane, C.R., Van Petegam F., & Tanentzapf G.).
 ---
 ### System Requirements
 - System requirements are those needed to run MATLAB R2017b or above. See [System Requirements for MATLAB](https://www.mathworks.com/support/requirements/matlab-system-requirements.html). MATLAB 2017b is the only software dependency.
